@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm enthusiastic about technology and passionate a
 - 🌱 I’m constantly learning new things and currently diving deeper into Kubernetes and Docker.
 - 👯 I’m looking to collaborate on open-source projects related to AI and DevOps.
 - 💬 Ask me about anything related to cloud infrastructure, Python, and AI.
-- 📫 How to reach me: [mailMe](mailto:Karthik.Shetty@philips.com)
+- 📫 How to reach me: [mailMe](mailto:Karthik.Shetty2206@gmail.com)
 - ⚡ Fun fact: I love hiking and exploring new trails during weekends.
 
 ## 🛠️ Technologies & Tools
